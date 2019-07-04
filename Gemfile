@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Runtime dependencies that should appear in the gemspec.
 gem 'json', '~> 2'
 gem 'mime-types', '~> 3.0'
-gem 'rest-client', '~> 1.6'
+gem 'rest-client', '~> 2.0.2'
 
 # Development dependencies that should appear in the gemspec.
 group :development do
